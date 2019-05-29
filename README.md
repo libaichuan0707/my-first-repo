@@ -2,7 +2,7 @@ The title of the project:
 my-first-repo
 -------------------------
 The date and time at which make was run:
-2019年 5月29日 星期三 20时52分29秒 CST
+2019_05_29 20:54:41
 -------------------------
 The number of lines of code contained in guessinggame.sh:
       21
